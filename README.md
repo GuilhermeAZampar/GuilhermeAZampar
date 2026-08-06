@@ -19,20 +19,29 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 
 ### 📊 Estatísticas do GitHub
 
-[![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAZampar&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAZampar&show_icons=true&theme=dark)
 
 ---
 
 ### 📌 Principais Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=Projeto_Cinelista.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=ProjetoLivraria.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=APIPokemonsFlaks.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=API_Pokemons_FASTAPI.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Projeto Cinelista](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=Projeto_Cinelista.github.io&theme=dark)
+![Projeto Livraria](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=ProjetoLivraria.github.io&theme=dark)
+![API Pokemons Flask](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=APIPokemonsFlaks.github.io&theme=dark)
+![API Pokemons FastAPI](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=API_Pokemons_FASTAPI.github.io&theme=dark)
 
 ---
 
 ### 🛠️ Linguagens Mais Utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAZampar&layout=compact&theme=dark)
+
+---
+
+### 📬 Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/guilherme-zampar-dev/)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:guilhermezampar90@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAZampar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
