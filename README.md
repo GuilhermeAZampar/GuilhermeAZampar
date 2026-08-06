@@ -9,43 +9,40 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 
 ### 🚀 Tecnologias & Habilidades
 
-- **Linguagens:** Python, JavaScript, TypeScript, HTML5, CSS3
-- **Back-End:** FastAPI, Flask, Django, APIs RESTful, ORM (SQLAlchemy), Celery (Tarefas Assíncronas)
-- **Front-End:** React, Next.js, Vue.js, Tailwind CSS, Bootstrap
-- **Bancos de Dados:** PostgreSQL, Oracle DB, SQL, MongoDB, Redis (Cache)
-- **DevOps, Testes & Ferramentas:** Docker, PyTest, ELK Stack (Monitoramento e Logs), Pipelines CI/CD, Git & GitHub
+**Linguagens & Front-End:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+**Back-End & Bancos de Dados:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAZampar&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAZampar&layout=compact&theme=dark" alt="Linguagens Mais Utilizadas" />
-</p>
+**DevOps & Ferramentas:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ---
 
 ### 📌 Principais Projetos
 
-<p align="center">
-  <a href="https://github.com/GuilhermeAZampar/Projeto_Cinelista">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=Projeto_Cinelista&theme=dark" alt="Projeto Cinelista" />
-  </a>
-  <a href="https://github.com/GuilhermeAZampar/ProjetoLivraria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=ProjetoLivraria&theme=dark" alt="Projeto Livraria" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/GuilhermeAZampar/APIPokemonsFlaks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=APIPokemonsFlaks&theme=dark" alt="API Pokemons Flask" />
-  </a>
-  <a href="https://github.com/GuilhermeAZampar/API_Pokemons_FASTAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeAZampar&repo=API_Pokemons_FASTAPI&theme=dark" alt="API Pokemons FastAPI" />
-  </a>
-</p>
+| Projeto | Tecnologia | Link |
+| :--- | :--- | :---: |
+| 🎬 **Projeto Cinelista** | JavaScript / HTML / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_Cinelista) |
+| 📚 **Projeto Livraria** | Python / API RESTful | [Acessar Repositório](https://github.com/GuilhermeAZampar/ProjetoLivraria) |
+| ⚡ **API Pokemons FastAPI** | Python / FastAPI | [Acessar Repositório](https://github.com/GuilhermeAZampar/API_Pokemons_FASTAPI) |
+| 🧪 **API Pokemons Flask** | Python / Flask | [Acessar Repositório](https://github.com/GuilhermeAZampar/APIPokemonsFlaks) |
 
 ---
 
