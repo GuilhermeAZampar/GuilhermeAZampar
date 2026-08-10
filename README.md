@@ -50,6 +50,7 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 
 | Projeto | Tecnologia | Link |
 | :--- | :--- | :---: |
+| 📄 **Currículo Virtual** | Python / Django / ORM / HTML / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_CV_Virutal) |
 | 🎬 **Projeto Cinelista** | JavaScript / HTML / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_Cinelista) |
 | 📚 **Projeto Livraria** | Python / API RESTful | [Acessar Repositório](https://github.com/GuilhermeAZampar/ProjetoLivraria) |
 | ⚡ **API Pokemons FastAPI** | Python / FastAPI | [Acessar Repositório](https://github.com/GuilhermeAZampar/API_Pokemons_FASTAPI) |
