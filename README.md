@@ -1,7 +1,8 @@
 ### Olá 👋, eu sou o Guilherme Zampar!
 
 ###### Sobre mim
-Sou desenvolvedor com foco em **Desenvolvimento Back-End e Front-End**, apaixonado por criar aplicações eficientes, escaláveis e bem estruturadas. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me aprofundando constantemente em arquitetura de software, APIs RESTful e boas práticas de desenvolvimento.
+
+Sou desenvolvedor com foco em **Desenvolvimento Python Full Stack , Back-End e Front-End**, apaixonado por criar aplicações eficientes, escaláveis e bem estruturadas. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me aprofundando constantemente em arquitetura de software, APIs RESTful e boas práticas de desenvolvimento.
 
 No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock e metal**, jogar **videogame** e me dedicar a projetos pessoais de programação.
 
@@ -39,6 +40,7 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 **Testes, DevOps, Logs & Containers:**  
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,6 +52,7 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 
 | Projeto | Tecnologia | Link |
 | :--- | :--- | :---: |
+| 🎸 **Projeto Bandas** | Python / Django / ORM / SQLite / HTML / CSS / JavaScript / Testes / Podman | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto-Bandas) |
 | 📄 **Currículo Virtual** | Python / Django / ORM / HTML / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_CV_Virutal) |
 | 🎬 **Projeto Cinelista** | JavaScript / HTML / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_Cinelista) |
 | 📚 **Projeto Livraria** | Python / API RESTful | [Acessar Repositório](https://github.com/GuilhermeAZampar/ProjetoLivraria) |
