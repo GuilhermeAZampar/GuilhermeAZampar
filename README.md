@@ -50,12 +50,14 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 
 ### 📌 Principais Projetos
 
+### 📌 Principais Projetos
+
 | Projeto | Tecnologia | Link |
 | :--- | :--- | :---: |
 | 🎸 **Projeto Bandas** | Python / Django / ORM / SQLite / HTML / CSS / JavaScript / Testes / Podman | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto-Bandas) |
+| 📚 **Projeto Livraria** | Python / FastAPI / React / Vite / SQLAlchemy / SQLite / Redis / Celery / Kafka / Elasticsearch / Docker / Kubernetes / PyTest / GitHub Actions | [Acessar Repositório](https://github.com/GuilhermeAZampar/ProjetoLivraria) |
 | 📄 **Currículo Virtual** | Python / Django / ORM / HTML / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_CV_Virutal) |
 | 🎬 **Projeto Cinelista** | JavaScript / HTML / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_Cinelista) |
-| 📚 **Projeto Livraria** | Python / API RESTful | [Acessar Repositório](https://github.com/GuilhermeAZampar/ProjetoLivraria) |
 | ⚡ **API Pokemons FastAPI** | Python / FastAPI | [Acessar Repositório](https://github.com/GuilhermeAZampar/API_Pokemons_FASTAPI) |
 | 🧪 **API Pokemons Flask** | Python / Flask | [Acessar Repositório](https://github.com/GuilhermeAZampar/APIPokemonsFlaks) |
 
