@@ -2,7 +2,7 @@
 
 ###### Sobre mim
 
-Sou desenvolvedor com foco em **Desenvolvimento Python Full Stack , Back-End e Front-End**, apaixonado por criar aplicações eficientes, escaláveis e bem estruturadas. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me aprofundando constantemente em arquitetura de software, APIs RESTful e boas práticas de desenvolvimento.
+Sou desenvolvedor com foco em **Desenvolvimento Python Full Stack, Back-End e Front-End**, apaixonado por criar aplicações eficientes, escaláveis e bem estruturadas. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me aprofundando constantemente em arquitetura de software, APIs RESTful e boas práticas de desenvolvimento.
 
 No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock e metal**, jogar **videogame** e me dedicar a projetos pessoais de programação.
 
@@ -50,16 +50,14 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 
 ### 📌 Principais Projetos
 
-### 📌 Principais Projetos
-
 | Projeto | Tecnologia | Link |
 | :--- | :--- | :---: |
-| 🎸 **Projeto Bandas** | Python / Django / ORM / SQLite / HTML / CSS / JavaScript / Testes| [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto-Bandas) |
+| 🎸 **Projeto Bandas** | Python / Django / ORM / SQLite / HTML / CSS / JavaScript / Testes | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto-Bandas) |
 | 📚 **Projeto Livraria** | Python / FastAPI / React / Vite / SQLAlchemy / SQLite / Redis / Celery / Kafka / Elasticsearch / Docker / Kubernetes / PyTest / GitHub Actions | [Acessar Repositório](https://github.com/GuilhermeAZampar/ProjetoLivraria) |
 | 📄 **Currículo Virtual** | Python / Django / ORM / HTML / CSS / Docker / Vercel | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_CV_Virutal) |
 | 🎬 **Projeto Cinelista** | JavaScript / HTML / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_Cinelista) |
-| ⚡ **API Pokemons FastAPI** | Python / FastAPI | [Acessar Repositório](https://github.com/GuilhermeAZampar/API_Pokemons_FASTAPI) |
-| 🧪 **API Pokemons Flask** | Python / Flask | [Acessar Repositório](https://github.com/GuilhermeAZampar/APIPokemonsFlaks) |
+| 🔴 **Pokédex Full Stack** | Python / Flask / React / Vite / SQLAlchemy / SQLite / Redis / Flask-Migrate / Docker / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/APIPokemonsFlaks) |
+| ⚡ **API Pokémons FastAPI** | Python / FastAPI | [Acessar Repositório](https://github.com/GuilhermeAZampar/API_Pokemons_FASTAPI) |
 
 ---
 
