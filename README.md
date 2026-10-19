@@ -52,10 +52,11 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 
 | Projeto | Tecnologia | Link |
 | :--- | :--- | :---: |
+| 💰 **Sistema Financeiro Full Stack** | Python / Flask / React / TypeScript / PostgreSQL / SQLAlchemy / Flask-Migrate / Podman / Nginx / GitHub Actions | [Acessar Repositório](https://github.com/GuilhermeAZampar/Sistema_financeiro) |
 | 🎸 **Projeto Bandas** | Python / Django / ORM / SQLite / HTML / CSS / JavaScript / Testes | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto-Bandas) |
 | 📚 **Projeto Livraria** | Python / FastAPI / React / Vite / SQLAlchemy / SQLite / Redis / Celery / Kafka / Elasticsearch / Docker / Kubernetes / PyTest / GitHub Actions | [Acessar Repositório](https://github.com/GuilhermeAZampar/ProjetoLivraria) |
 | 📄 **Currículo Virtual** | Python / Django / ORM / HTML / CSS / Docker / Vercel | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_CV_Virutal) |
-| 🎬 **Projeto Cinelista** | Next.js/ HTML5 / CSS3 | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_Cinelista) |
+| 🎬 **Projeto Cinelista** | Next.js / HTML5 / CSS3 | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_Cinelista) |
 | 🔴 **Pokédex Full Stack** | Python / Flask / React / Vite / SQLAlchemy / SQLite / Redis / Flask-Migrate / Docker / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/APIPokemonsFlaks) |
 | ⚡ **API Pokémons FastAPI** | Python / FastAPI | [Acessar Repositório](https://github.com/GuilhermeAZampar/API_Pokemons_FASTAPI) |
 
@@ -63,5 +64,5 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 
 ### 📬 Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/guilherme-zampar-dev/)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:guilhermezampar90@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zampar-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermezampar90@gmail.com)
