@@ -52,7 +52,7 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 
 | Projeto | Tecnologia | Link |
 | :--- | :--- | :---: |
-| 💰 **Sistema Financeiro Full Stack** | Python / Flask / React / TypeScript / PostgreSQL / SQLAlchemy / Flask-Migrate / Podman / GitHub Actions | [Acessar Repositório](https://github.com/GuilhermeAZampar/Sistema_financeiro) |
+| 💰 **Sistema Financeiro Full Stack** | Python / Flask / React / TypeScript / PostgreSQL / SQLAlchemy / Flask-Migrate / Docker / GitHub Actions | [Acessar Repositório](https://github.com/GuilhermeAZampar/Sistema_financeiro) |
 | 🎸 **Projeto Bandas** | Python / Django / ORM / SQLite / HTML / CSS / JavaScript / Testes | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto-Bandas) |
 | 📚 **Projeto Livraria** | Python / FastAPI / React / Vite / SQLAlchemy / SQLite / Redis / Celery / Kafka / Elasticsearch / Docker / Kubernetes / PyTest / GitHub Actions | [Acessar Repositório](https://github.com/GuilhermeAZampar/ProjetoLivraria) |
 | 📄 **Currículo Virtual** | Python / Django / ORM / HTML / CSS / Docker / Vercel | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_CV_Virutal) |
