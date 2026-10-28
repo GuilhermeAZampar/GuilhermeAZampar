@@ -2,7 +2,9 @@
 
 ###### Sobre mim
 
-Sou desenvolvedor com foco em **Desenvolvimento Python Full Stack, Back-End e Front-End**, apaixonado por criar aplicações eficientes, escaláveis e bem estruturadas. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e me aprofundando constantemente em arquitetura de software, APIs RESTful e boas práticas de desenvolvimento.
+Sou desenvolvedor com formação em **Python Full Stack e Front-End pela EBAC** e atualmente curso **Análise e Desenvolvimento de Sistemas na Estácio**. Tenho foco em desenvolvimento back-end com Python e também desenvolvo interfaces e aplicações full stack.
+
+Nos meus projetos, trabalho com APIs REST, bancos de dados, testes automatizados e integração entre front-end e back-end.
 
 No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock e metal**, jogar **videogame** e me dedicar a projetos pessoais de programação.
 
@@ -53,12 +55,12 @@ No meu tempo livre, gosto de treinar na **academia**, escutar álbuns de **rock 
 | Projeto | Tecnologia | Link |
 | :--- | :--- | :---: |
 | 💰 **Sistema Financeiro Full Stack** | Python / Flask / React / TypeScript / PostgreSQL / SQLAlchemy / Flask-Migrate / Docker / GitHub Actions | [Acessar Repositório](https://github.com/GuilhermeAZampar/Sistema_financeiro) |
-| 🎸 **Projeto Bandas** | Python / Django / ORM / SQLite / HTML / CSS / JavaScript / Testes | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto-Bandas) |
 | 📚 **Projeto Livraria** | Python / FastAPI / React / Vite / SQLAlchemy / SQLite / Redis / Celery / Kafka / Elasticsearch / Docker / Kubernetes / PyTest / GitHub Actions | [Acessar Repositório](https://github.com/GuilhermeAZampar/ProjetoLivraria) |
-| 📄 **Currículo Virtual** | Python / Django / ORM / HTML / CSS / Docker / Vercel | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_CV_Virutal) |
-| 🎬 **Projeto Cinelista** | Next.js / HTML5 / CSS3 | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_Cinelista) |
+| 🎸 **Projeto Bandas** | Python / Django / ORM / SQLite / HTML / CSS / JavaScript / Testes | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto-Bandas) |
 | 🔴 **Pokédex Full Stack** | Python / Flask / React / Vite / SQLAlchemy / SQLite / Redis / Flask-Migrate / Docker / CSS | [Acessar Repositório](https://github.com/GuilhermeAZampar/APIPokemonsFlaks) |
 | ⚡ **API Pokémons FastAPI** | Python / FastAPI | [Acessar Repositório](https://github.com/GuilhermeAZampar/API_Pokemons_FASTAPI) |
+| 📄 **Currículo Virtual** | Python / Django / ORM / HTML / CSS / Docker / Vercel | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_CV_Virutal) |
+| 🎬 **Projeto Cinelista** | Next.js / HTML5 / CSS3 | [Acessar Repositório](https://github.com/GuilhermeAZampar/Projeto_Cinelista) |
 
 ---
 
